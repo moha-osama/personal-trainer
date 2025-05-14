@@ -1,0 +1,11 @@
+.texturedText {
+  background: linear-gradient(90deg, #d20c13 0.99%, #cc4e17 99.8%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Gagalin";
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+}

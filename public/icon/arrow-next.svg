@@ -1,0 +1,53 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="black"/>
+<g id="FitMaker (Website)" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6200" transform="translate(-1314 -4011)" fill="#1D1D1D"/>
+<g id=" Our Trainers">
+<g id="Frame 454">
+<g id="Frame 453">
+<g id="Ellipse 17" filter="url(#filter0_f_0_1)">
+<ellipse cx="-253" cy="-237" rx="281" ry="47" fill="#712B0D"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Blog post">
+<g id="Frame 361">
+<g id="Frame 326">
+<g id="Frame 367">
+<g id="Frame 397">
+<g id="Frame 365">
+<rect x="-7.5" y="-7.5" width="35" height="35" rx="7.5" stroke="white"/>
+<g id="grommet-icons:link-next">
+<path id="Vector" d="M1.66669 10H18.3334M18.3334 10L10.8334 2.5M18.3334 10L10.8334 17.5" stroke="white" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Frame 452">
+<g id="Frame 451">
+<g id="Ellipse 18" opacity="0.6" filter="url(#filter1_f_0_1)">
+<ellipse cx="-235.5" cy="317" rx="263.5" ry="190" fill="#77060B"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-884" y="-634" width="1262" height="794" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="175" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_f_0_1" x="-699" y="-73" width="927" height="780" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6200" fill="white" transform="translate(-1314 -4011)"/>
+</clipPath>
+</defs>
+</svg>

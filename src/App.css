@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Vazirmatn:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap");
+@import "tailwindcss";
+
+@font-face {
+  font-family: Gagalin;
+  src: url("/fonts/Gagalin-Regular.otf") format("truetype");
+}
+
+body {
+  background: var(--Grey-grey-900, #1d1d1d);
+}
